@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Denike91
-- 👀 I’m interested in ...
+- 👀 I’m interested in AI and Machine Language 
 - 🌱 I’m currently learning Data analysis 
 - 💞️ I’m looking forward to any internship opportunities in Data analysis
 - 
